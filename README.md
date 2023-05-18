@@ -1,4 +1,4 @@
-# code share for FC-MCS paper submission 
+# code share for CMC-DRA paper submission (for systems journal)
 
 ## Compile
 del /s *.class 
