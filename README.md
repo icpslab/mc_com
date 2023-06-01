@@ -1,4 +1,4 @@
-# code share for CMC-DRA paper submission (for systems journal)
+# code share for "Scheduling Complex Cyber-Physical Systems with Mixed-Criticality Components" Systems 2023, 11(6), 281; https://doi.org/10.3390/systems11060281
 
 ## Compile
 del /s *.class 
